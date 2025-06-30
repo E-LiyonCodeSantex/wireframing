@@ -48,3 +48,29 @@ For this project, a **High-Fidelity wireframe** was used.
 
 This choice was intentional to:
 - Focus on layout structure and user flow with visual design.
+
+## 🛠️ Popular Wireframing Tools
+
+Wireframing tools help designers and developers visualize layout ideas, user flows, and functionality before diving into full development. Here are some widely used tools in the industry:
+
+### 🔹 Figma (Recommended)
+Figma is a **cloud-based design and prototyping tool** known for its real-time collaboration features. It allows multiple users to work on the same wireframe simultaneously, making it ideal for remote teams and agile workflows.
+
+**Key Features:**
+- Drag-and-drop interface with reusable components
+- Real-time collaboration and commenting
+- Pre-built wireframe kits and plugins
+- Cross-platform access (browser-based)
+- Easy handoff to developers with inspect mode and CSS export
+
+Figma is especially useful for both **low-fidelity** and **high-fidelity** wireframes, allowing teams to iterate quickly and maintain design consistency across projects.
+
+### 🔹 Other Popular Tools
+- **Balsamiq:** Great for low-fidelity wireframes with a sketchy, hand-drawn style.
+- **Adobe XD:** Offers vector-based design and prototyping with integration into the Adobe ecosystem.
+- **Sketch:** A macOS-based tool with strong UI design capabilities and plugin support.
+- **Lucidchart:** Ideal for flowcharts and wireframes with strong diagramming features.
+- **Miro:** A digital whiteboard tool perfect for brainstorming and collaborative wireframing.
+
+Each tool has its strengths, but Figma stands out for its **accessibility, collaboration, and versatility**, making it a top choice for modern UI/UX workflows.
+
