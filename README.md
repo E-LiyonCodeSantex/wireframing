@@ -92,4 +92,38 @@ Wireframes serve as a **shared visual language** between designers, developers, 
 - Aligning everyone on layout and functionality
 - Supporting clearer
 
+## 🧪 Real-World Scenario: Wireframing Uncovers Usability Issues
+
+### Scenario: Booking Flow Confusion in a Travel App
+
+During the early design phase of a travel booking platform, the team created a **low-fidelity wireframe** to map out the user journey from browsing destinations to completing a booking. In the wireframe, the checkout process was split across **three separate screens**: traveler details, payment, and confirmation.
+
+When the wireframe was tested with users, several **usability issues** emerged:
+- Users were confused about how many steps were left in the process.
+- Some thought they had completed the booking after entering payment details, not realizing they still needed to confirm.
+- Others struggled to find the “Back” button to edit their traveler information.
+
+### Resolution
+
+Based on this feedback, the team:
+- **Consolidated the checkout flow** into a single scrollable page with collapsible sections.
+- Added a **progress indicator** at the top to show users where they were in the process.
+- Introduced clear **call-to-action buttons** and a summary sidebar for review before submission.
+
+These changes were implemented in the next iteration of the wireframe and re-tested. Users completed the flow faster, with fewer errors and greater confidence.
+
+### Impact on the Final Product
+
+By identifying these issues early through wireframing:
+- The team avoided costly rework during development.
+- The final product launched with a **streamlined, intuitive booking experience**.
+- User satisfaction scores improved, and drop-off rates during checkout decreased significantly.
+
+---
+
+### 🧠 Conclusion
+
+This scenario highlights how wireframing is more than just a design step—it’s a **strategic tool** for uncovering usability flaws before they become expensive problems. By visualizing and testing user flows early, teams can build products that are not only functional but also **user-friendly, efficient, and enjoyable to use**.
+
+
 
