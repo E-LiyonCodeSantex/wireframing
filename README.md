@@ -23,3 +23,28 @@ Indicates key interactive elements—buttons, inputs, sliders, modals—without 
 ---
 
 Each element ensures the user experience is structured, predictable, and effective before visual design or development begins. Properly planned wireframes help teams iterate quickly, saving time and reducing costly revisions later.
+
+## 🧭 Types of Wireframes
+
+Wireframes vary in fidelity depending on the stage of the design process and the level of detail required. The two most common types are:
+
+### 🔹 Low-Fidelity Wireframes
+- **Purpose:** Used in the early stages of design to explore layout ideas and user flows.
+- **Characteristics:** Simple sketches or grayscale layouts with placeholders for content, minimal styling, and no interactivity.
+- **Tools:** Pen & paper, Balsamiq, whiteboards.
+- **When to Use:** During brainstorming, early feedback sessions, or when validating structure and navigation.
+
+### 🔹 High-Fidelity Wireframes
+- **Purpose:** Used in later stages to refine the design and prepare for prototyping or development.
+- **Characteristics:** Detailed visuals with real content, typography, spacing, and sometimes basic interactivity.
+- **Tools:** Figma, Adobe XD, Sketch.
+- **When to Use:** When presenting to stakeholders, preparing for usability testing, or handing off to developers.
+
+---
+
+## 🧾 Wireframe Type Used in This Project
+
+For this project, a **High-Fidelity wireframe** was used.
+
+This choice was intentional to:
+- Focus on layout structure and user flow with visual design.
